@@ -3,9 +3,9 @@
 ## Roles
 | Integrante | Rol | Responsabilidades |
 |---|---|---|
-| [Nombre 1] | **Coordinador del repositorio** | Es dueño del repo en GitHub, agrega a los demás, revisa y aprueba los Pull Requests, mantiene el README y entrega el trabajo. |
-| [Nombre 2] | **Desarrollador** | Escribe y modifica `lector_placas.py` en ramas propias, hace commits con mensaje claro y abre Pull Requests. |
-| [Nombre 3] | **Revisor y pruebas** | Prueba el programa con la cámara, revisa los Pull Requests antes de aprobarlos, documenta casos de prueba y evidencias. |
+| [Juan Esteban Valencia] | **Coordinador del repositorio** | Es dueño del repo en GitHub, agrega a los demás, revisa y aprueba los Pull Requests, mantiene el README y entrega el trabajo. |
+| [Juan Martin Mesa] | **Desarrollador** | Escribe y modifica `lector_placas.py` en ramas propias, hace commits con mensaje claro y abre Pull Requests. |
+| [Jerónimo Zuluaga (Todos)] | **Revisor y pruebas** | Prueba el programa con la cámara, revisa los Pull Requests antes de aprobarlos, documenta casos de prueba y evidencias. |
 
 *Los roles rotan en cada entrega para que todos conozcan todo el proyecto.*
 
